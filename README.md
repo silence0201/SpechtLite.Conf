@@ -43,6 +43,8 @@
 - [rejectlist](rejectlist):需要屏蔽的域名列表
 - [rejectiprange](rejectiprange):需要屏蔽的ip列表
 
+## SpechtLite
+SpechtLite is available under the MIT license. See the LICENSE file for more info.
 
  
  
