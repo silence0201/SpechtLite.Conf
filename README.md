@@ -33,8 +33,8 @@
 主要配置文件包括下面几个：
 
 - [🏃Auto.yaml](🏃Auto.yaml):适用于多服务器配置，所有的服务器会自动选择
-- [🇯🇵 Tokyo.yaml](🇯🇵 Tokyo.yaml):单服务器配置,日本服务器配置
-- [🇭🇰 Hong Kong.yaml](🇭🇰 Hong Kong.yaml):单服务器配置,香港服务器配置
+- [🇯🇵Tokyo.yaml](🇯🇵Tokyo.yaml):单服务器配置,日本服务器配置
+- [🇭🇰Hong Kong.yaml](🇭🇰Hong Kong.yaml):单服务器配置,香港服务器配置
 - [pollutedip](pollutedip):根据[Wikipedia](https://zh.m.wikipedia.org/zh-cn/域名服务器缓存污染)被污染DNS得出的被污染IP列表
 - [directlist](directlist):直连域名列表
 - [directiprange](directiprange):直连ip列表
