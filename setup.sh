@@ -1,5 +1,6 @@
 #! /bin/bash
-# mv ~/Library/Developer/Xcode/UserData/CodeSnippets ~/Library/Developer/Xcode/UserData/CodeSnippets.backup
+# 需要备份取消下面一行注释
+# mv ~/.SpechtLite ~/.SpechtLite/backup
 
 SRC_HOME=`pwd`
 cp  ${SRC_HOME}/* ~/.SpechtLite
